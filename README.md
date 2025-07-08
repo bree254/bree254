@@ -40,23 +40,12 @@
 
 ---
 
-### 🌟 Featured Projects
-
-Here are a few cool projects I'm proud of:
-
-- 🔗 [**brereviews.github.io**](https://github.com/bree254/brereviews.github.io) — A simple and clean website built with HTML/CSS/JS
-- 📱 `CRUDTASKS` / `CRUD` — JavaScript-based CRUD applications
-- 🧾 `JavaAssignment` — A classic Java-based business logic assignment (discounts, users, employees)
-- 📦 `WiiApp` — A Java-based shopping app
-- ☕ `coding_tea` — My first C++ repository while learning data structures
-
 ---
 
 ### 📬 Get In Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/brenda-mugure-wanjiru)
 - 📩 brendawanjiru553@gmail.com
-- 🌐 [Portfolio Website](#) — _Coming soon..._
 
 ---
 
