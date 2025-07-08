@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey there, I'm Brenda Mugure!</h2>
 
 <p align="center">
-  🎯 Full-stack Developer | 💻 Laravel & Flutter Enthusiast | 🚀 Tech Explorer
+  🎯 Software Developer | 💻  Flutter Enthusiast | 🚀 Tech Explorer
 </p>
 
 ---
