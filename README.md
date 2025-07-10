@@ -31,7 +31,7 @@
 
 ### 📬 Get In Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/brenda-mugure-wanjiru)
+- 💼 [LinkedIn](www.linkedin.com/in/brenda-mugure-7a9054152)
 - 📩 brendawanjiru553@gmail.com
 
 ---
